@@ -1,0 +1,131 @@
+@-webkit-keyframes _idGenKeyFrames-0 {
+0% { -webkit-transform:translate(0px,0px) ; }
+100% { -webkit-transform:translate(376px,0px) ; }
+} 
+@keyframes _idGenKeyFrames-0 {
+0% { transform:translate(0px,0px) ; }
+100% { transform:translate(376px,0px) ; }
+} 
+@font-face {
+	font-family:"DT Phudu Black";
+	font-style:normal;
+	font-weight:900;
+	font-stretch:semi-condensed;
+	src : url("../../font/DTPhudu-Black.otf");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../../font/MinionPro-Regular.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote, figure {
+	margin:0;
+	padding:0;
+	border-width:0;
+	text-rendering:optimizeSpeed;
+}
+div > svg {
+	position:absolute;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.ParaOverride-1 {
+	line-height:1;
+	white-space:nowrap;
+}
+span.CharOverride-1 {
+	color:#f9b314;
+	font-family:"DT Phudu Black", sans-serif;
+	font-size:50px;
+	font-style:normal;
+	font-weight:900;
+}
+span.CharOverride-2 {
+	color:#000000;
+	font-family:"DT Phudu Black", sans-serif;
+	font-size:72px;
+	font-style:normal;
+	font-weight:900;
+}
+span.CharOverride-3 {
+	color:#1211ca;
+	font-family:"DT Phudu Black", sans-serif;
+	font-size:72px;
+	font-style:normal;
+	font-weight:900;
+}
+#_idContainer000 {
+	-webkit-perspective:1px;
+	height:105px;
+	left:-780px;
+	position:absolute;
+	top:27px;
+	width:3040px;
+}
+#_idContainer001 {
+	-ms-transform:translate(-42.500px,130.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(-42.500px,130.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:483.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(-42.500px,130.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(-42.500px,130.500px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:1485.00px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	left:0px;
+	position:absolute;
+	top:0px;
+}
+div._idGenObjectStyle-Disabled {
+	background-color:transparent;
+	border-width:0px;
+}
+div._idGenPlayAnimation-1 {
+	-webkit-animation-delay:0.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-name:_idGenKeyFrames-0;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:0.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:infinite;
+	animation-name:_idGenKeyFrames-0;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenAnimationStart-1 {
+	-webkit-transform:translate(0px,0px) ;
+	-webkit-transform-origin:50% 50%;
+	transform:translate(0px,0px) ;
+	transform-origin:50% 50%;
+}
+div._idGenAnimationEnd-1 {
+	-webkit-transform:translate(376px,0px) ;
+	-webkit-transform-origin:50% 50%;
+	transform:translate(376px,0px) ;
+	transform-origin:50% 50%;
+}
+div._idGenStateHide, div._idGenStateHide *{
+	visibility:hidden;
+}
